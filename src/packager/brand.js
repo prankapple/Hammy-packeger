@@ -43,14 +43,14 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.`,
   ACCENT_COLOR: '#00c3ff',
-  SOURCE_CODE: 'https://github.com/PenguinMod/PenguinMod-Packager',
+  SOURCE_CODE: 'https://github.com/Blox/Blox-Packager',
   FEEDBACK_PRIMARY: {
     name: 'Discord',
     link: 'https://discord.gg/NZ9MBMYTZh'
   },
   FEEDBACK_SECONDARY: {
     name: 'GitHub',
-    link: 'https://github.com/PenguinMod/PenguinMod-Packager/issues'
+    link: 'https://github.com/Blox/Blox-Packager/issues'
   },
   DONATE: 'https://github.com/sponsors/GarboMuffin',
 };

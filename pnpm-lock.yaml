@@ -21,11 +21,11 @@ specifiers:
   pify: 6.1.0
   rimraf: ^2.7.1
   scratch-audio: git+https://github.com/TurboWarp/scratch-audio.git
-  scratch-render: git+https://github.com/PenguinMod/PenguinMod-Render.git#develop
+  scratch-render: git+https://github.com/Blox/Blox-Render.git#develop
   scratch-render-fonts: ^1.0.0-prerelease.20210401210003
   scratch-storage: git+https://github.com/TurboWarp/scratch-storage.git#develop
   scratch-svg-renderer: git+https://github.com/TurboWarp/scratch-svg-renderer.git#develop
-  scratch-vm: git+https://github.com/PenguinMod/PenguinMod-Vm.git#develop
+  scratch-vm: git+https://github.com/Blox/Blox-Vm.git#develop
   sha.js: ^2.4.11
   style-loader: ^2.0.0
   svelte: ^3.44.3
@@ -61,11 +61,11 @@ devDependencies:
   pify: 6.1.0
   rimraf: 2.7.1
   scratch-audio: github.com/TurboWarp/scratch-audio/30e31c4c5ea4b1c85fe4d579c7fef847fe64ff7b
-  scratch-render: github.com/PenguinMod/PenguinMod-Render/96ec5550992d75f9f688222d7b17a29f8db4698a_cwizvtbjwvte3ay5zts4avrfja
+  scratch-render: github.com/Blox/Blox-Render/96ec5550992d75f9f688222d7b17a29f8db4698a_cwizvtbjwvte3ay5zts4avrfja
   scratch-render-fonts: 1.0.0-prerelease.20221102164332
   scratch-storage: github.com/TurboWarp/scratch-storage/5392b136b2e6982231023bf4bf9c14c4b890dd46_webpack@4.46.0
   scratch-svg-renderer: github.com/TurboWarp/scratch-svg-renderer/3aaf933b19b55d632b6319cb05ab276528b9964d_cwizvtbjwvte3ay5zts4avrfja
-  scratch-vm: github.com/PenguinMod/PenguinMod-Vm/7ba720035d18a0067e8c9fcef8f1311e93eb4c02_cnjjgryycnetjxj63hj6pfbvmu
+  scratch-vm: github.com/Blox/Blox-Vm/7ba720035d18a0067e8c9fcef8f1311e93eb4c02_cnjjgryycnetjxj63hj6pfbvmu
   style-loader: 2.0.0_webpack@4.46.0
   svelte: 3.55.0
   svelte-loader: 3.1.4_svelte@3.55.0
@@ -9056,9 +9056,9 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  github.com/PenguinMod/PenguinMod-Render/96ec5550992d75f9f688222d7b17a29f8db4698a_cwizvtbjwvte3ay5zts4avrfja:
-    resolution: {tarball: https://codeload.github.com/PenguinMod/PenguinMod-Render/tar.gz/96ec5550992d75f9f688222d7b17a29f8db4698a}
-    id: github.com/PenguinMod/PenguinMod-Render/96ec5550992d75f9f688222d7b17a29f8db4698a
+  github.com/Blox/Blox-Render/96ec5550992d75f9f688222d7b17a29f8db4698a_cwizvtbjwvte3ay5zts4avrfja:
+    resolution: {tarball: https://codeload.github.com/Blox/Blox-Render/tar.gz/96ec5550992d75f9f688222d7b17a29f8db4698a}
+    id: github.com/Blox/Blox-Render/96ec5550992d75f9f688222d7b17a29f8db4698a
     name: scratch-render
     version: 0.1.0
     peerDependencies:
@@ -9075,9 +9075,9 @@ packages:
       twgl.js: 4.4.0
     dev: true
 
-  github.com/PenguinMod/PenguinMod-Vm/7ba720035d18a0067e8c9fcef8f1311e93eb4c02_cnjjgryycnetjxj63hj6pfbvmu:
-    resolution: {tarball: https://codeload.github.com/PenguinMod/PenguinMod-Vm/tar.gz/7ba720035d18a0067e8c9fcef8f1311e93eb4c02}
-    id: github.com/PenguinMod/PenguinMod-Vm/7ba720035d18a0067e8c9fcef8f1311e93eb4c02
+  github.com/Blox/Blox-Vm/7ba720035d18a0067e8c9fcef8f1311e93eb4c02_cnjjgryycnetjxj63hj6pfbvmu:
+    resolution: {tarball: https://codeload.github.com/Blox/Blox-Vm/tar.gz/7ba720035d18a0067e8c9fcef8f1311e93eb4c02}
+    id: github.com/Blox/Blox-Vm/7ba720035d18a0067e8c9fcef8f1311e93eb4c02
     name: scratch-vm
     version: 0.2.0
     peerDependencies:

@@ -3,9 +3,7 @@
     "description1": {
       "string": "Converts Blox projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux."
       
-    },
-    "description2-embedding": {
-      "string": "Embedding"
+
     },
     "description3": {
       "string": "Report bugs, give feedback, and suggest ideas {onScratch} or {onGitHub}."
@@ -113,11 +111,11 @@
       "string": "Select Project"
     },
     "selectHelp": {
-      "string": "Select the project you want to package by copying and pasting the PenguinMod project link or using one of the other modes. If you use a project you didn't make, make sure to credit the creator."
+      "string": "Select the project you want to package by copying and pasting the Blox project link or using one of the other modes. If you use a project you didn't make, make sure to credit the creator."
     },
     "id": {
-      "string": "PenguinMod Project ID or URL",
-      "context": "Radio option to select a project from the PenguinMod website"
+      "string": "Blox Project ID or URL",
+      "context": "Radio option to select a project from the Blox website"
     },
     "file": {
       "string": "File",
@@ -125,7 +123,7 @@
     },
     "url": {
       "string": "Other URL",
-      "context": "Radio option to choose a project from a non-PenguinMod URL"
+      "context": "Radio option to choose a project from a non-Blox URL"
     },
     "loadProject": {
       "string": "Load Project",
@@ -151,7 +149,7 @@
       "context": "Warning message about unshared projects no longer being accessible."
     },
     "unsharedProjectsTemporary": {
-      "string": "Unshared projects will no longer be accessible using just their project ID at some point in the future due to upcoming PenguinMod API changes.",
+      "string": "Unshared projects will no longer be accessible using just their project ID at some point in the future due to upcoming Blox API changes.",
       "context": "Temporary warning message about unshared projects not being accessible in the FUTURE. Will be replaced with similar message after the changes are implemented."
     },
     "unsharedProjectsWorkaround": {
