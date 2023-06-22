@@ -1,7 +1,7 @@
 {
   "p4": {
     "description1": {
-      "string": "Converts PenguinMod projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux."
+      "string": "Converts Blox projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux."
       
     },
     "description2-embedding": {

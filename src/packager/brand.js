@@ -27,8 +27,8 @@ If this is set to an empty string, the link is removed.
 */
 
 module.exports = {
-  APP_NAME: 'PenguinMod Packager',
-  WEBSITE: 'https://studio.penguinmod.site/PenguinMod-Packager/',
+  APP_NAME: 'Blox Packager',
+  WEBSITE: 'https://thetechdoge.github.io/Blox-Packager/',
   COPYRIGHT_NOTICE: `Copyright (C) 2021-2022 Thomas Weber
 
 Licensed under the Apache License, Version 2.0 (the "License");

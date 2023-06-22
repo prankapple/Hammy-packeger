@@ -134,10 +134,8 @@
       <p>{$_('p4.description1')}</p>
       <p>
         <ComplexMessage
-          message={$_('p4.description2')}
           values={{
             embedding: {
-              text: $_('p4.description2-embedding'),
               href: 'https://docs.turbowarp.org/embedding'
             }
           }}
